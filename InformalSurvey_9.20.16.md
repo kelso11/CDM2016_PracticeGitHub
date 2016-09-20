@@ -4,16 +4,13 @@
 _type your answers below, and we'll merge them into one document_
 
 I'm learning a lot about teaching myself new technologies.
-I'm now have the ability to look at the screen in front of me and think about how things are computed into that interface.
-
+Before this class I never considered #how# I was creating my work. I never really thought about my audience and who I could potentially be excluding (ex. using Word over Markdown). I think it is an important aspect to be aware of.  
 ## What's the most interesting thing you've learned in class so far? 
 _type your answers below, and we'll merge them into one document_
-
-I really enjoy learning markdown and think it will be an interesting tool to use in the future.
+I've enjoyed learning a little about the history of software, computers, etc. 
 
 ## What would you like to see different in this class so far?
 _type your answers below, and we'll merge them into one document_
 
-I think that maybe spending more time working with the computers, familiarizing ourselves with different programs, might be beneficial to us.
-
 I'd love to do less talking.
+I've enjoyed the use of the slides. I would like to continue to see those in class. 
